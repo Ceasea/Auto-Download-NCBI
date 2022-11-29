@@ -13,6 +13,7 @@
 #### Download database
 1. download auto_down.py and put the SRR_Acc_List.txt in one directory
 2. open a console and run ```python auto_down.py```
+3. All database in the project will be downloaded and the costing time is related to the size of database.
 
 #### Proxies
 If you do not use proxy, you can delelte the proxies in auto_down.py
