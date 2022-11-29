@@ -9,3 +9,7 @@
 ![step3](pic/step3.JPG)
 4. Select the box in red arrow and click Accession List in green arrow
 ![step4](pic/step4.JPG)
+
+#### Download database
+1. download auto_down.py and put the SRR_Acc_List.txt in one directory
+2. open a console and run ```python auto_down.py```
