@@ -13,3 +13,6 @@
 #### Download database
 1. download auto_down.py and put the SRR_Acc_List.txt in one directory
 2. open a console and run ```python auto_down.py```
+
+#### Proxies
+If you do not use proxy, you can delelte the proxies in auto_down.py
